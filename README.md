@@ -1,5 +1,7 @@
-![Starbucks Clone Deployment]
+# **Starbucks Clone Deployment**
+```
 Install and Setup the following tools on your local machine
+```
 
 # **Install AWS CLI**
 
